@@ -5,7 +5,7 @@ An attempt to provide some clarification on sensitivity analysis methods general
 
 Some guidance as to why a specific method should be selected in a certain situation can be helpful. A flowchart is introduced which can be useful as a practical guidance for applying Sensitivity analysis methods. I also added some methods that are generally linked to uncertainty estimation to illustrate the linkage with methods for sensitivity analysis.
 
-It is not a community-wide agreed flowchart or best practice, but purely a guidance proposed as a starting point.  It is mainly driven by practical considerations and for sure prone to discussion.
+It is not a community-wide agreed flowchart or best practice, but purely a guidance proposed as a starting point.  It is mainly driven by practical considerations and for sure prone to discussion. As focus is on the assumptions and type of analysis, I do not provide the computational effort the methods need in the flowchart. The latter is a technical issue and should be solved as such.
 
 ## Purpose
 
